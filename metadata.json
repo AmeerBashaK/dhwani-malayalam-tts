@@ -1,0 +1,6 @@
+{
+  "name": "Dhwani Malayalam TTS - Regional Kerala Dialects",
+  "description": "High-fidelity Malayalam Text-to-Speech application with regional dialect adaptation (Malabar, Valluvanadan, Travancore, Thrissur, Kottayam, Kasaragod) powered by Gemini TTS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

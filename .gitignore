@@ -1,0 +1,23 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Local tooling and temporary files
+.vite/
+*.tsbuildinfo
+.idea/
+.vscode/
+Thumbs.db
+*.tmp
+*.bak
+
+# Credentials and private keys
+*.pem
+*.key
+credentials.json
+service-account*.json
